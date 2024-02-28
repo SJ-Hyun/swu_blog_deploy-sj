@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center">게시물 목록</h1>
+        <h1 class="text-center">게시글 리스트</h1>
         <table class="table table-hover">
             <thead>
                 <tr>
